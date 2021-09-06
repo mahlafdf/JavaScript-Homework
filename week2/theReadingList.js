@@ -22,5 +22,4 @@ for (let i = 0; i< bookLists.length; i++) {
     }else{
         console.log('You still need to read\"'+bookLists[i].title+'\"');
     }
-    console.log('');
 }
